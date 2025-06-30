@@ -1,2 +1,2 @@
 Some text that should be shared across repos
-Moved further in another repo
+Start anew
